@@ -1,0 +1,5 @@
+server/default/data/
+server/default/deploy/*.war
+server/default/log/
+server/default/tmp/
+server/default/work/
